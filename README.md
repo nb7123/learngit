@@ -6,7 +6,9 @@ Bai du map sdks wraped to android 'aar' library and deployed to maven central, b
 
 #Version
 mapapi: base,map,cloud,radar,search,util	3.6.0
+
 location: 6.13
+
 trace: 2.0.0
 
 Changelog
@@ -24,7 +26,7 @@ See http://developer.baidu.com/map/
 Examples
 --------
 
-See individual samples [here on Github](https://github.com/loopj/android-async-http/tree/1.4.9/sample/src/main/java/com/loopj/android/http/sample)  
+See individual samples [here on Github](https://github.com/nb7123/BaiduMapSDK/tree/master/sample)  
 To run Sample application, simply clone the repository and test with 'android studio'  
 
 Maven
@@ -33,7 +35,6 @@ You can now integrate this library in your project via Maven. There are availabl
 
 **releases, maven central**
 
-```
 Gradle
 ```groovy
 repositories {
