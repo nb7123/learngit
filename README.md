@@ -11,7 +11,7 @@
 
 ##<a anme="first"/>开发工具-Android Studio(AS)
 Android studio 是Google官方推出的Android最新开发工具，
-从以下官方网站获取相关信息：
-	[tools.android.com](http://tools.android.com)
+从以下官方网站获取相关信息：  
+	[tools.android.com](http://tools.android.com)  
 	[developer.android.com](http://developer.android.com/intl/zh-cn/index.html)
 
