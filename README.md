@@ -2,6 +2,11 @@
 收集Android开发最新最实用的工具和框架（库），相互分享，提高开发和维护效率。
 
 ****
+欢迎各位看官老爷提出宝贵的意见和建议**（new issues 或是在视频下方留言）**  
+使用中各位遇到了什么问题也可以通过相同的方式提出，大家一起讨论和解答
+希望能对各位有所帮助
+
+###			nb7123@gmail.com
 
 ===============
 ##<a name="index"/>目录
@@ -15,5 +20,5 @@ Android studio 是Google官方推出的Android最新开发工具，
 **[tools.android.com](http://tools.android.com)**  
 **[developer.android.com](http://developer.android.com/intl/zh-cn/index.html)**  
 
-**[视频介绍]()**  
+**[楼主做的视频介绍-_-]()**  
 
